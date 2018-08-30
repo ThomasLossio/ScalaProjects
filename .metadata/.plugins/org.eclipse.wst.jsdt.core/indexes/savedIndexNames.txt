@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+C:\Users\thoma\Documents\ScalaProjects\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+136943215.index
+656958695.index
+2187294764.index
+131824451.index
+1990568554.index
+1779187298.index

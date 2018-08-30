@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\thoma\Downloads\play-scala-rest-api-example"/>
+		<item value="C:\Users\thoma\Downloads\play-scala-rest-api-example-2.5.x"/>
+		<item value="C:\Users\thoma\Documents\ScalaProjects\novo"/>
+	</list>
+	<list key="installedFeatures">
+		<item value="org.eclipse.cvs:1.4.400.v20170612-0950"/>
+		<item value="org.eclipse.egit:4.8.0.201706111038-r"/>
+		<item value="org.eclipse.emf.common:2.13.0.v20170609-0707"/>
+		<item value="org.eclipse.emf.ecore:2.13.0.v20170609-0707"/>
+		<item value="org.eclipse.epp.mpc:1.6.0.v20170616-0843"/>
+		<item value="org.eclipse.help:2.2.100.v20170612-0950"/>
+		<item value="org.eclipse.jdt:3.13.0.v20170612-0950"/>
+		<item value="org.eclipse.jgit:4.8.0.201706111038-r"/>
+		<item value="org.eclipse.m2e.feature:1.8.1.20170728-1531"/>
+		<item value="org.eclipse.pde:3.13.0.v20170612-0950"/>
+		<item value="org.eclipse.platform:4.7.0.v20170612-1255"/>
+		<item value="org.eclipse.rcp:4.7.0.v20170612-1255"/>
+		<item value="org.scala-ide.play2.feature:0.10.0.v-2_12-201709120913-fda12dd"/>
+		<item value="org.scala-ide.scala212.feature:4.7.0.201709120845"/>
+		<item value="org.scala-ide.sdk.feature:4.7.0.201709121458"/>
+		<item value="org.scala-ide.sdt.feature:4.7.0.v-2_12-201709120846-71a28d0"/>
+		<item value="org.scala-ide.sdt.lagom.feature:1.0.0.v-2_12-201709120914-78507a9"/>
+		<item value="org.scala-ide.sdt.scalatest.feature:2.10.0.v-4-6-2_12-201704041333-e62e4ad"/>
+		<item value="org.scala-ide.zinc.feature:4.7.0.201709120845"/>
+		<item value="org.scala.tools.eclipse.search.feature:0.6.0.v-2_12-201709121454-a02665c"/>
+		<item value="org.scalaide.worksheet.feature:0.7.0.v-2_12-201709120910-5d5e039"/>
+	</list>
+</section>

@@ -1,0 +1,22 @@
+<!DOCTYPE <!DOCTYPE html>
+<html>
+<head>
+	<title>Google Maps Example</title>
+	<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+	<script >
+		var map
+		function initialize() {
+			var mapOptions = {
+				zoom: 8,
+				center: new google.maps.Latting(43.6481, -79.4042),
+				mapTypeID: google.maps.mapTypeID.ROADMAP
+			};
+			map = new google.maps.Map(document.getElementByID('map_canvas'), mapOptions);
+		}
+	</script>
+</head>
+<body onload="initialize()">
+	<div id="map_canvas" style="width: 500px; height: 300px"></div>
+	<p>oi</p>
+</body>
+</html>
